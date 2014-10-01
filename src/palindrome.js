@@ -13,8 +13,8 @@ var isPallindrome = function(source) {
 	console.log('Reversed String: ' + reverseStr);
 	return source === reverseStr;
 	},
-	findPallindrome = function() {
-
+	findPallindrome = function(source) {
+		return null;
 	};
 
 console.log('Pallindrome Check - ' + isPallindrome('A man, a plan, a canal: Panama'));
