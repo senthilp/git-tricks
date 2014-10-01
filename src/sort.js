@@ -3,6 +3,9 @@ var sorts = {
 	},
 	quickSort: function() {
 
+	},
+	bubbleSort: function() {
+		
 	}
 };
 
