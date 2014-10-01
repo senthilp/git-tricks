@@ -1,5 +1,9 @@
-var mergeSort = function() {
+var sorts = {
+	mergeSort: function() {
+	},
+	quickSort: function() {
 
+	}
 };
 
-module.exports.mergeSort = mergeSort;
+module.exports.mergeSort = sorts;
