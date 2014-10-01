@@ -1,13 +1,13 @@
 var sorts = {
-	mergeSort: function() {
+	merge: function() {
 	},
-	quickSort: function() {
+	quick: function() {
 
 	},
-	bubbleSort: function() {
+	bubble: function() {
 		
 	},
-	heapSort: function() {
+	heap: function() {
 		
 	},
 	insertion: function() {
