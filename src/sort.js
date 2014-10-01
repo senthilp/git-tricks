@@ -6,6 +6,9 @@ var sorts = {
 	},
 	bubbleSort: function() {
 		
+	},
+	heapSort: function() {
+		
 	}
 };
 
