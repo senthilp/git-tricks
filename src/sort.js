@@ -9,6 +9,9 @@ var sorts = {
 	},
 	heapSort: function() {
 		
+	},
+	insertion: function() {
+		
 	}
 };
 
